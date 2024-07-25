@@ -32,7 +32,7 @@ In this project, I analyzed and transformed data, creating interactive visualiza
 - **Source:** [Specify the source of your data, e.g., CSV files, databases, APIs]
 - **Description:** [Briefly describe the data used in the project]
 
-## Data Cleaning and Preprocessing
+## Data Cleaning and Preprocessing 
 - **Tools Used:** Power Query Editor, MySQL
 - **Steps:**
   - Imported raw data from various sources.
