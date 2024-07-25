@@ -1,10 +1,10 @@
-# My First Power BI Project
+# Real-Time Sales Dashboard
 
 ## Introduction
 This project helps the company to understand their sales better. It provides a comprehensive view of how data analysis projects are executed in large organizations. The case study focuses on a computer hardware business facing challenges in a dynamically changing market. The Power BI dashboard offers real-time sales insights for the company.
 
 ## Project Overview
-- **Project Name:** Sales-DashBord
+- **Project Name:** Real-Time Sales Dashboard
 - **File Name:** `[Microsoft.MicrosoftPowerBIDesktop (.pbix)](URL)
 
 - **Purpose:** To demonstrate data visualization and analysis skills using Power BI.
