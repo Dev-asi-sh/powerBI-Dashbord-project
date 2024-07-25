@@ -5,7 +5,8 @@ This project helps the company to understand their sales better. It provides a c
 
 ## Project Overview
 - **Project Name:** Sales-DashBord
-- **File Name:** `my_1st_power_BI_project.pbix`
+- **File Name:** `my_1st_power_BI_project.pbix`[Microsoft.MicrosoftPowerBIDesktop (.pbix)](URL)
+
 - **Purpose:** To demonstrate data visualization and analysis skills using Power BI.
 
 ## Problem Statement
@@ -43,11 +44,36 @@ In this project, I analyzed and transformed data, creating interactive visualiza
   - Created new calculated columns and measures as needed.
 
  ## Refined Dataset
-![customer](https://github.com/user-attachments/assets/b3a2b78d-9170-4421-a426-5eb80114bdcc)
+
+### custember.sql
+
+![customer](https://github.com/user-attachments/assets/b3a2b78d-9170-4421-a426-5eb80114bdcc)   
+
+### date.sql
+
+![date](https://github.com/user-attachments/assets/5ffe4c03-08f4-4a46-9792-c8d6655cb5fe)
+
+### market.sql
+
+![market](https://github.com/user-attachments/assets/79410291-ecc2-44fb-a3a4-b9b7cb48a412)
+
+### product.sql
+
+![product](https://github.com/user-attachments/assets/b84f75d8-bafe-46d6-b27a-3066eb135efa)
+
+### trasaction.sql
+
+![trasaction](https://github.com/user-attachments/assets/7cbf97f2-4694-4fd3-8799-eceb91c9c553)
+
 
 ## Visualizations
 - [Describe the different visualizations created in the Power BI report]
 - [Include screenshots or descriptions of key visualizations]
+![fullpage](https://github.com/user-attachments/assets/0592f907-9661-435f-9395-2217fb468cf4)
+
+### Relationship Diagram
+
+![relationship](https://github.com/user-attachments/assets/9d80b661-5662-447c-9a52-0d2354620c67)
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/yourusername/your-repo-name.git`
