@@ -69,6 +69,7 @@ In this project, I analyzed and transformed data, creating interactive visualiza
 ## Visualizations
 - [Describe the different visualizations created in the Power BI report]
 - [Include screenshots or descriptions of key visualizations]
+     ### Sales DashBord
 ![fullpage](https://github.com/user-attachments/assets/0592f907-9661-435f-9395-2217fb468cf4)
 
 ### Relationship Diagram
