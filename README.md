@@ -5,7 +5,7 @@ This project helps the company to understand their sales better. It provides a c
 
 ## Project Overview
 - **Project Name:** Sales-DashBord
-- **File Name:** `my_1st_power_BI_project.pbix`[Microsoft.MicrosoftPowerBIDesktop (.pbix)](URL)
+- **File Name:** `[Microsoft.MicrosoftPowerBIDesktop (.pbix)](URL)
 
 - **Purpose:** To demonstrate data visualization and analysis skills using Power BI.
 
@@ -86,8 +86,6 @@ In this project, I analyzed and transformed data, creating interactive visualiza
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or feedback, please contact me at [your-email@example.com].
+For any questions or feedback, please contact me at [debasishdebasish57@gmail.com].
