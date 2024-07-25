@@ -43,6 +43,7 @@ In this project, I analyzed and transformed data, creating interactive visualiza
   - Created new calculated columns and measures as needed.
 
  ## Refined Dataset
+![customer](https://github.com/user-attachments/assets/b3a2b78d-9170-4421-a426-5eb80114bdcc)
 
 ## Visualizations
 - [Describe the different visualizations created in the Power BI report]
