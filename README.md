@@ -5,7 +5,7 @@ This project helps the company to understand their sales better. It provides a c
 
 ## Project Overview
 - **Project Name:** Real-Time Sales Dashboard
-- **File Name:** `[Microsoft.MicrosoftPowerBIDesktop (.pbix)](URL)
+- **File Name:** https://drive.google.com/file/d/1I-GyRkIz9gHHxIPhnV4-e8xajPDj5XLa/view?usp=sharing
 
 - **Purpose:** To demonstrate data visualization and analysis skills using Power BI.
 
@@ -30,7 +30,7 @@ In this project, I analyzed and transformed data, creating interactive visualiza
 - Insights and key findings derived from the data.
 
 ## Data Sources
-- **Source:** [Specify the source of your data, e.g., CSV files, databases, APIs]
+- **Source:** [https://drive.google.com/file/d/1w32-u-Pa2H1y7WeuB2Aue5o6FfwsEcCO/view?usp=sharing]
 - **Description:** [Briefly describe the data used in the project]
 
 ## Data Cleaning and Preprocessing 
